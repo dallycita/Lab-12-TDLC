@@ -4,7 +4,7 @@ Implementación en **JavaScript (Node.js)** de ejercicios de programación funci
 
 ## Video
 
-> Pendiente: agregar aquí el enlace al video no listado de YouTube.
+[Ver video explicativo en YouTube](https://youtu.be/Qa7IxLkI5E4)
 
 ## Requisitos
 
@@ -29,7 +29,6 @@ src/
 test/                   Pruebas de cada problema (node:test)
 teoria/
   Problema1.pdf         Respuestas teóricas del problema 1
-  Problema1.html        Fuente del PDF
 ```
 
 ## Problemas
